@@ -22,10 +22,5 @@ I'm a **Data Engineer** with 7.5 years of experience in software engineering, in
 - **[ML Model Accuracy Audit](https://github.com/pavithra19/MachineLearningProject)**  
   Designed a pipeline to clean incoming test data and evaluate model accuracy under various conditions using scikit-learn.
 
-## 📫 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pavithrapurushothaman)  
-- 📧 pavithra.purus@gmail.com 
-- 📍 **Based in Germany**
-
-Let’s connect — always happy to chat about **data, tech, and new ideas!** 🚀
+ [LinkedIn](https://www.linkedin.com/in/pavithrapurushothaman) - Let’s connect — always happy to chat about **data, tech, and new ideas!** 🚀
