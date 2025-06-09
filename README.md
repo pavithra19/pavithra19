@@ -6,7 +6,7 @@ I'm a **Data Engineer** with 7.5 years of experience in software engineering, in
 
 ## 👩‍💻 What I work with
 
-- Azure (ADF, Databricks, Synapse) Microsoft Fabric, AWS (EC2, S3)  
+- Azure (ADF, Databricks, Synapse), Microsoft Fabric, AWS (EC2, S3)  
 - Snowflake, Delta Lake, Data Lakehouse, ETL/ELT processes 
 - Apache Spark, Kafka, Hadoop
 - Python, SQL, PySpark, Scala, Shell scripting  
