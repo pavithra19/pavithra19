@@ -23,4 +23,4 @@ I'm a **Data Engineer** with 7.5 years of experience in software engineering, in
   Designed a pipeline to clean incoming test data and evaluate model accuracy under various conditions using scikit-learn.
 
 
- [LinkedIn](https://www.linkedin.com/in/pavithrapurushothaman) - Let’s connect — always happy to chat about **data, tech, and new ideas!** 🚀
+ [LinkedIn](https://www.linkedin.com/in/pavithra-purushothaman) - Let’s connect — always happy to chat about **data, tech, and new ideas!** 🚀
