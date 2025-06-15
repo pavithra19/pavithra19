@@ -1,6 +1,6 @@
 # Hi, I'm Pavithra 👋
 
-I'm a **Data Engineer** with 7.5 years of experience in software engineering, including **3.2 years** focused on building **scalable data pipelines**. I enjoy working with large datasets, automating workflows, and transforming raw data into **clean, meaningful insights**.
+I'm a **Data Engineer** with 7.5 years of experience in software engineering, including **4 years** focused on building **scalable data pipelines**. I enjoy working with large datasets, automating workflows, and transforming raw data into **clean, meaningful insights**.
 
 🎓 Currently pursuing my **Master’s in Global Software Development** in Fulda, Hesse, Germany.
 
